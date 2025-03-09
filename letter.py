@@ -1,0 +1,5 @@
+print("09/03/2025")
+print("Estoy contenta porque voy entendiendo poco a poco como programar ^^")
+print("Al aprender progrmación podré ser una mejor profesional en el sector de la ciberseguridad")
+print("Así que ¡Se positiva y trabaja cada día un pooc más!")
+print(";)")
