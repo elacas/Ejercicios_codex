@@ -3,6 +3,8 @@
 #Celsius= Farenheit-32/1.8
 
 
-Farenheit= 53-32
+farenheit= 53
 
-print(Farenheit/1.8)
+celsius= (farenheit-32)/1.8
+
+print(celsius)
