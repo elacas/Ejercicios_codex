@@ -23,3 +23,4 @@ lado_c= math.sqrt(d)
 
 print(lado_c)
 
+
