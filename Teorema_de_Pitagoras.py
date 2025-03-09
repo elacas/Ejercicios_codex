@@ -11,12 +11,15 @@ import math
 
 #c**2= a**2+b**
 
-a=5**2
+lado_a=5**2
 
-b=3**2
+lado_b=3**2
 
-d=b+a
+d=lado_b+lado_a
 
-print(d)
 math.sqrt(d)
+
+lado_c= math.sqrt(d)
+
+print(lado_c)
 
